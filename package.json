@@ -1,0 +1,16 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "This is a demo project",
+  "main": "fileSystem.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "laabike",
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "uuid": "^9.0.0"
+  }
+}
